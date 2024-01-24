@@ -331,7 +331,7 @@ footer .logo:hover{
         padding: 20px;
     }
 
-    .menu label {
+     .menu label {
         display: initial;
     }
 
@@ -354,7 +354,7 @@ footer .logo:hover{
     }
 
     #menu:checked ~ .navbar {
-        display: none;
+        display: initial;
     }
 
     .header {

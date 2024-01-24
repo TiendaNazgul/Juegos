@@ -319,6 +319,7 @@ footer .logo:hover{
 
     form{
         flex-direction: column;
+        width: 60%
     }
 
     input{

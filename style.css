@@ -352,8 +352,12 @@ footer .logo:hover{
         width: 100%;
     }
 
+    #menu {
+        display:none;
+    }
+
     #menu:checked ~ .navbar {
-        display: initial;
+        display: block;
     }
 
     .header {

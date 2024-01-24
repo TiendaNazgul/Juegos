@@ -254,7 +254,8 @@ footer .logo:hover{
     .menu .navbar {
         position: absolute;
         top: 100%;
-        left: 0;
+        width: 100%;
+        text-align: center;
         right: 0;
         background-color: #FF5A2C;
         display: none;

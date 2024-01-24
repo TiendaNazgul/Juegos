@@ -235,16 +235,15 @@ footer .logo:hover{
     .menu label {
         display: initial;
     }
-
     .menu .navbar {
         position: absolute;
         top: 100%;
-        left: 0;
+        width: 100%;
+        text-align: center;
         right: 0;
         background-color: #FF5A2C;
         display: none;
     }
-
     .menu .navbar ul li a:hover {
         color: #1B1726;
     }

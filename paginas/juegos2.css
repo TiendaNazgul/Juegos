@@ -162,7 +162,7 @@ img{
     padding-left: 600px;
     font-size: 33px;
     color: #FF5A2C;
-    margin-top: -450px;
+    margin-top: 50px;
 
 }
 
@@ -182,7 +182,7 @@ h3 {
     font-size: 28px;
     color: #ffffff;
     margin-bottom: 20px;
-    margin-top: -150px;
+    margin-top: 150px;
     margin-left: 50px;
 }
 
@@ -191,10 +191,6 @@ h3 {
     padding: 30px 50px;
     margin-top: 40px;
     background-color: #FF5A2C;
-}
-
-.producto-content {
-    margin-top: 200px;
 }
 
 

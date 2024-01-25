@@ -311,7 +311,7 @@ footer .logo:hover{
     }
 
     .producto-content h3{
-        margin-top: -40px;
+        margin-top: -30px;
         margin-left: -40px;
     }
 
@@ -342,7 +342,7 @@ footer .logo:hover{
 
     .producto-content img {
         width: 70%;
-        margin-left: 20px;
+        margin-left: -40px;
     }
 
 }

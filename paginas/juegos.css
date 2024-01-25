@@ -186,9 +186,9 @@ h3 {
 }
 
 .producto-content a{
-    margin-left: 150px;
+    margin-left: 100px;
     padding: 30px 50px;
-    margin-top: 10px;
+    margin-top: 40px;
     background-color: #FF5A2C;
 }
 
@@ -299,18 +299,18 @@ footer .logo:hover{
 
     .producto-content p{
         margin-left: -650px;
-        margin-top: 80px;
+        margin-top: 90px;
         font-size: 25px;
     }
 
     .producto-content .btn-2{
-            margin-left: 50px;
-            margin-top: 50px;
+            margin-left: 40px;
+            margin-top: 60px;
             font-size: 15px;
     }
 
     .producto-content h3{
-        margin-top: -40px;
+        margin-top: -50px;
         margin-left: -40px;
     }
 
@@ -340,7 +340,7 @@ footer .logo:hover{
     }
 
     .producto-content img {
-        width: 40%;
+        width: 70%;
     }
 
 }
